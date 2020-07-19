@@ -1,0 +1,23 @@
+{
+  "name": "midasbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "core.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "author": "nickharrow",
+  "license": "ISC",
+  "dependencies": {
+    "async-limiter": "^2.0.0",
+    "discord.js": "^11.6.1",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "jimp": "^0.14.0",
+    "long": "^4.0.0",
+    "prism-media": "0.0.4",
+    "snekfetch": "^4.0.4",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.3.1"
+  }
+}
